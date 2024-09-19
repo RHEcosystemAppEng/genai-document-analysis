@@ -30,6 +30,9 @@ This project consists of notebooks that perform the following tasks:
 
 [04-extract-key-words.ipynb](https://github.com/RHEcosystemAppEng/genai-document-analysis/blob/main/notebooks/04-extract-key-words.ipynb) - This notebook extracts important keywords from each document.
 
+## Documentation to deploy the demo
+https://docs.google.com/document/d/17KSADGvrNx64LAp1hmvejmkrabDA2XcMvhFXc23MVHU/edit?usp=sharing
+
 ## References
 OpenAI repo: https://github.com/openai/openai-cookbook/
 
