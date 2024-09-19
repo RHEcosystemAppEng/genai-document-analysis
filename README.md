@@ -20,15 +20,15 @@ Examples in this repo uses DISTILBERT model (https://huggingface.co/distilbert/d
 ## Notebooks
 This project consists of notebooks that perform the following tasks:
 
-00-explore-data.ipynb - This notebook explores the data by looking at the distribution of classes, number of words per document, etc.
+[00-explore-data.ipynb](https://github.com/RHEcosystemAppEng/genai-document-analysis/blob/main/notebooks/00-explore-data.ipynb) - This notebook explores the data by looking at the distribution of classes, number of words per document, etc.
 
-01-get-embeddings.ipynb - This notebook uses pre-trained word embeddings to create vector representations for each document.
+[01-get-embeddings.ipynb](https://github.com/RHEcosystemAppEng/genai-document-analysis/blob/main/notebooks/01-get-embeddings.ipynb) - This notebook uses pre-trained word embeddings to create vector representations for each document.
 
-02-classify-documents.ipynb - This notebook builds classification models using DISTILBERT to classify each document and to predict the class of each document.
+[02-classify-documents.ipynb](https://github.com/RHEcosystemAppEng/genai-document-analysis/blob/main/notebooks/02-classify-documents.ipynb) - This notebook builds classification models using DISTILBERT to classify each document and to predict the class of each document.
 
-03-extract-key-information.ipynb - This notebook extracts key information from each document such as people, organizations, locations, etc.
+[03-extract-key-information.ipynb](https://github.com/RHEcosystemAppEng/genai-document-analysis/blob/main/notebooks/03-extract-key-information.ipynb) - This notebook extracts key information from each document such as people, organizations, locations, etc.
 
-04-extract-key-words.ipynb - This notebook extracts important keywords from each document.
+[04-extract-key-words.ipynb](https://github.com/RHEcosystemAppEng/genai-document-analysis/blob/main/notebooks/04-extract-key-words.ipynb) - This notebook extracts important keywords from each document.
 
 ## References
 OpenAI repo: https://github.com/openai/openai-cookbook/
